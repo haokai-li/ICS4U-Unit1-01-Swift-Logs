@@ -1,9 +1,9 @@
 /*
-* The "Hello Word!" program, just proves you can show print to terminal.
+* The "Logs" program, just proves you can show print to terminal.
 *
 * @author  Haokai
 * @version 1.0
-* @since   2021-11-17
+* @since   2021-11-20
 */
 
 let max: Double = 1100
